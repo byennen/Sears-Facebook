@@ -50,17 +50,9 @@ not_found do
   haml :not_found
 end
 
-def get_user(user_id)
-  if session[:confirmation_message]
-    session['fb_token']
-  else
-  end
-end
-
 get '/' do
   check_auth
 
-  @user = get_user("me")
   if session[:confirmation_message]
     @confirmation_message = session[:confirmation_message]
     session[:confirmation_message] = nil
