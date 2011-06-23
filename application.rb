@@ -51,7 +51,7 @@ not_found do
 end
 
 def get_user(user_id)
-  session['fb_token']
+  session['fb_token'] : nil
 end
 
 get '/' do

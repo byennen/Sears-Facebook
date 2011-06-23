@@ -6,3 +6,8 @@ gem 'haml', '>= 3', :require => ['haml', 'sass']
 gem 'oa-oauth', '>= 0.2.3'
 gem 'yajl-ruby'
 gem 'json'
+
+group :development do
+  gem 'heroku'
+  gem 'bundle'
+end
