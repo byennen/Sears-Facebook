@@ -51,7 +51,10 @@ not_found do
 end
 
 def get_user(user_id)
-  session['fb_token'] || nil
+  if session[:confirmation_message]
+    session['fb_token']
+  else
+  end
 end
 
 get '/' do
