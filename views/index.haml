@@ -1,0 +1,13 @@
+= session['fb_error']
+%h3
+  = 'Hello, ' + session['fb_auth']['user_info']['first_name'] + ', ' if session['fb_token']
+  Welcome to my list.
+#output
+  #image
+  #product_name
+- if session['fb_auth']
+  %hr/
+  %p
+    %span.like_site Do you like this site?
+  %p
+    %iframe{:allowTransparency => "true", :frameborder => "0", :scrolling => "no", :src => "http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffaceboku.heroku.com%2F&layout=standard&show_faces=true&width=450&action=like&colorscheme=light&height=80", :style => "border:none; overflow:hidden; width:450px; height:80px;"}
