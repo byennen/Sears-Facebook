@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GiftRegistryView>
+  <RegistryID>	900028336048010101</RegistryID>
+  <EventName>	Wedding Registry</EventName>
+  <EventDescription><![CDATA[Test Wedding]]></EventDescription>
+  <EventDate> 2011-11-11</EventDate>
+  <RegistryItemsCount>	5</RegistryItemsCount>
+  <ItemRequestCount>     6 </ItemRequestCount>
+  <PurchasedCount>  	0</PurchasedCount>
+  <GuestViewURL>	buyergiftlist_10153_12605_900028336048010101_GiftRegistryItemfwdView_BUYER</GuestViewURL>
+  <BarCodeUrl>	http://giftregistry.sears.com/cgi-bin/grbarcode.cgi?filename=900028336048010101.jpg&amp;grid=900028336048010101</BarCodeUrl>
+  <GiftRegistryItems>
+    <GiftRegistryItem>
+      <ItemId>            	34779784            </ItemId>
+      <ItemName><![CDATA[Infant Baby Car Seat, Abigail	           							]]></ItemName>
+      <BrandName><![CDATA[Safety 1st]]></BrandName>
+      <CategoryName><![CDATA[Baby]]></CategoryName>
+      <ImageURL>http://s.shld.net/is/image/Sears/04986710000?hei=100&amp;wid=100</ImageURL>
+      <SoldBy>sold by sears	    																		      										    	    					</SoldBy>
+      <QuantityRequested>				3            </QuantityRequested>
+      <QuantityBought>			0			</QuantityBought>
+      <PartNumber>																							04986710000P															</PartNumber>
+      <CatentryID>42034027</CatentryID>
+      <ItemAvailability>			WEB_STORE		</ItemAvailability>
+      <StoreName>		SEARS		</StoreName>
+      <Priority>																											High																	</Priority>
+      <SaveStory><![CDATA[<div class="origPrice"><span class="text">Reg Price: </span><span class="pricing"><del> $69.99</del></span></div><div class="savings"><span class="text">Savings: </span><span class="pricing youpay" > $5.00</span></div><div class="youPay"><span class="pricing"> $64.99</span></div>]]></SaveStory>
+      <RegularPrice>			$69.99		</RegularPrice>
+      <ItemPrice>			$64.99		</ItemPrice>
+      <ItemIndex>			1		</ItemIndex>
+    </GiftRegistryItem>
+    <GiftRegistryItem>
+      <ItemId>            	35193236            </ItemId>
+      <ItemName><![CDATA[4-Slice toaster - Black	           												Overall Color:				Black/stainless						]]></ItemName>
+      <BrandName><![CDATA[BRAND_374]]></BrandName>
+      <CategoryName><![CDATA[Boys]]></CategoryName>
+      <ImageURL>http://s.shld.net/is/image/Sears/00880004000?hei=100&amp;wid=100</ImageURL>
+      <SoldBy>sold by sears	    																		      										    	    					</SoldBy>
+      <QuantityRequested>				1            </QuantityRequested>
+      <QuantityBought>			0			</QuantityBought>
+      <PartNumber>																							00880004000P															</PartNumber>
+      <CatentryID>40576833</CatentryID>
+      <ItemAvailability>			WEB_STORE		</ItemAvailability>
+      <StoreName>		SEARS		</StoreName>
+      <Priority>																											High																	</Priority>
+      <SaveStory><![CDATA[<div class="origPrice"><span class="text">Reg Price: </span><span class="pricing"><del> $49.99</del></span></div><div class="savings"><span class="text">Savings: </span><span class="pricing youpay" > $20.00</span></div><div class="youPay"><span class="pricing"> $29.99</span></div>]]></SaveStory>
+      <RegularPrice>			$49.99		</RegularPrice>
+      <ItemPrice>			$29.99		</ItemPrice>
+      <ItemIndex>			2		</ItemIndex>
+    </GiftRegistryItem>
+    <GiftRegistryItem>
+      <ItemId>            	35193237            </ItemId>
+      <ItemName><![CDATA[16 pc. Square Dinnerware Set - Paprika	           							]]></ItemName>
+      <BrandName><![CDATA[Ty Pennington Style]]></BrandName>
+      <CategoryName><![CDATA[Dishes, Linens & Tableware]]></CategoryName>
+      <ImageURL>http://s.shld.net/is/image/Sears/02470311000?hei=100&amp;wid=100</ImageURL>
+      <SoldBy>sold by sears	    																		      										    	    					</SoldBy>
+      <QuantityRequested>				1            </QuantityRequested>
+      <QuantityBought>			0			</QuantityBought>
+      <PartNumber>																							02470311000P															</PartNumber>
+      <CatentryID>91606379</CatentryID>
+      <ItemAvailability>			WEB_STORE		</ItemAvailability>
+      <StoreName>		SEARS		</StoreName>
+      <Priority>																											High																	</Priority>
+      <SaveStory><![CDATA[<div class="origPrice"><span class="text">Reg Price: </span><span class="pricing"><del> $79.99</del></span></div><div class="savings"><span class="text">Savings: </span><span class="pricing youpay" > $20.00</span></div><div class="youPay"><span class="pricing"> $59.99</span></div>]]></SaveStory>
+      <RegularPrice>			$79.99		</RegularPrice>
+      <ItemPrice>			$59.99		</ItemPrice>
+      <ItemIndex>			3		</ItemIndex>
+    </GiftRegistryItem>
+    <GiftRegistryItem>
+      <ItemId>            	35193238            </ItemId>
+      <ItemName><![CDATA[Premier Coffee Series Brew Central 12-Cup Programmable Coffee Maker	           							]]></ItemName>
+      <BrandName><![CDATA[Cuisinart]]></BrandName>
+      <CategoryName><![CDATA[Small Kitchen Appliances]]></CategoryName>
+      <ImageURL>http://s.shld.net/is/image/Sears/00869761000?hei=100&amp;wid=100</ImageURL>
+      <SoldBy>sold by sears	    																		      										    	    					</SoldBy>
+      <QuantityRequested>				1            </QuantityRequested>
+      <QuantityBought>			0			</QuantityBought>
+      <PartNumber>																		00869761000P																					</PartNumber>
+      <CatentryID>40625779</CatentryID>
+      <ItemAvailability>			WEB_STORE		</ItemAvailability>
+      <StoreName>		SEARS		</StoreName>
+      <Priority>																											High																	</Priority>
+      <SaveStory><![CDATA[<span class="salePrice"><del> $99.99</del></span><div class="saving"> Add to cart to see our price </div><div class="saving"> thru 06/02/11</div>]]></SaveStory>
+      <RegularPrice>			$99.99		</RegularPrice>
+      <ItemPrice>			$79.99		</ItemPrice>
+      <ItemIndex>			4		</ItemIndex>
+    </GiftRegistryItem>
+  </GiftRegistryItems>
+  <ServiceHeaders>
+    <Store>		10153		</Store>
+    <LangId>				</LangId>
+    <clientSessionKey>		0000LH13OrHksAAZjYksDHLKB4I:15eofavqf		</clientSessionKey>
+  </ServiceHeaders>
+  <StatusData>
+    <ResponseCode>					0				</ResponseCode>
+    <RespMessage>					Action is successful.				</RespMessage>
+  </StatusData>
+</GiftRegistryView>
