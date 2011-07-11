@@ -15,7 +15,9 @@ configure do
   enable :sessions
   use Rack::Facebook, { :secret => APP_SECRET }
   use OmniAuth::Builder do
-    provider :facebook, APP_ID, APP_SECRET, {:scope => ''}
+    client_options = production? ? {:ssl => {:ca_path => "/etc/ssl/certs"}} : {}
+    provider :facebook, APP_ID, APP_SECRET, {:client_options => client_options, :scope => ''}
+    #provider :facebook, APP_ID, APP_SECRET, {:scope => ''}
   end
 end
 
