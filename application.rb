@@ -52,7 +52,7 @@ not_found do
 end
 
 get '/' do
-  check_auth
+  #check_auth
 
   if session[:confirmation_message]
     @confirmation_message = session[:confirmation_message]
