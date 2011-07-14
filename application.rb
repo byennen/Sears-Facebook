@@ -66,11 +66,6 @@ get '/clients/:api_key/?' do |api_key|
   [200, get_clients(api_key).to_json]
 end
 
-get '/lists/:api_key/:client_id/?' do |api_key, client_id|
-  content_type 'application/json', :charset => 'utf-8'
-  [200, get_lists_for_client(api_key, client_id).to_json]
-end
-
 get '/auth/facebook/callback/?' do
   session['fb_auth'] = request.env['omniauth.auth']
   session['fb_token'] = session['fb_auth']['credentials']['token']
